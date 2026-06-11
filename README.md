@@ -1,6 +1,6 @@
 # Sistema de Manutenção de Contas Bancárias em C
 
-Atividade acadêmica desenvolvida em linguagem C com base nos conceitos de subprogramas, arquivos binários e recursão.
+Atividade desenvolvida em C com base nos conceitos de subprogramas, arquivos binários e recursão.
 
 ## O que foi utilizado
 
